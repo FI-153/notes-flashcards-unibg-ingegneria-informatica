@@ -26,20 +26,27 @@ Mentre seguivo i corsi ho di volta in volta studiato la lezione precedente e scr
 # Corsi obbligatori del primo anno
 
 ### Gestione Aziendale (38024) - Albachiara Boffelli
+<a href='https://github.com/FI-153/flashcards-unibg-ingegneria-informatica/blob/000ba488fec6cb86346d7b56c11253688e761093/Gestione%20aziendale%20(38024)%20(Boffelli).mochi'>Scarica il deck</a>
 
 ### Identificazione dei modelli e analisi dei dati (IMAD) (38020) (38011) - Mirco Mazzoleni
+<a href='https://github.com/FI-153/flashcards-unibg-ingegneria-informatica/blob/000ba488fec6cb86346d7b56c11253688e761093/Identificazione%20dei%20modelli%20e%20analisi%20dei%20dati%20(38020)%20(38011)%20(Mazzoleni).mochi'>Scarica il deck</a>
 
 ### Intelligenza artificiale (38089) - Domenico Fabio Savo
+<a href='https://github.com/FI-153/flashcards-unibg-ingegneria-informatica/blob/000ba488fec6cb86346d7b56c11253688e761093/Intelligenza%20artificiale%20(38089)%20(Savo).mochi'>Scarica il deck</a>
 
 ### Modelli e algoritmi di ottimizzazione (MAO) (38089) - Maria Teresa Vespucci
+<a href='https://github.com/FI-153/flashcards-unibg-ingegneria-informatica/blob/000ba488fec6cb86346d7b56c11253688e761093/Modelli%20e%20algoritmi%20di%20ottimizzazione%20(38089)%20(Vespucci).mochi'>Scarica il deck</a>
 
 ### Progettazione, algoritmi e computabilità (PAC) (38090) - Patrizia Scandurra
+<a href='https://github.com/FI-153/flashcards-unibg-ingegneria-informatica/blob/000ba488fec6cb86346d7b56c11253688e761093/Progettazione%2C%20algoritmi%20e%20computabilit%C3%A0%20(38090)%20(Scandurra).mochi'>Scarica il deck</a>
 
 ### Programmazione avanzata (38090) - Claudio Menghi
+<a href='https://github.com/FI-153/flashcards-unibg-ingegneria-informatica/blob/000ba488fec6cb86346d7b56c11253688e761093/Programmazione%20avanzata%20(38090)%20(Menghi).mochi'>Scarica il deck</a>
 
 ### Reti di telecomunicazione (Principi e Laboratorio) (39092) = Fabio Martignon
+<a href='https://github.com/FI-153/flashcards-unibg-ingegneria-informatica/blob/000ba488fec6cb86346d7b56c11253688e761093/Reti%20di%20telecomunicazione%20(Principi%20e%20Laboratorio)%20(39092)%20(Martignon).mochi'>Scarica il deck</a>
 
+# Corsi a scelta del primo anno
 
-# Corsi a scelta
-
-### Machine Learning (38094) - Davide Gamba
+### Machine Learning (38094) - Daniele Gamba
+<a href='https://github.com/FI-153/flashcards-unibg-ingegneria-informatica/blob/000ba488fec6cb86346d7b56c11253688e761093/Machine%20Learning%20(38094)%20(Gamba).mochi'>Scarica il deck</a>
