@@ -1,4 +1,4 @@
-<h1> Flashcard per Ingegneria Informatica in UniBG (LM-32) </h1>
+# Flashcard per la laurea magistrale in Ingegneria Informatica presso UniBG (LM-32)
 
 Questa repo contiene le flashcard che ho scritto studiando ingegneria informatica presso l'Università degli Studi di Bergamo. I corsi si sono svolti nell'anno accademico 2023/2024 per il primo anno e 2024/2025 per il secondo. Le metto a disposizione sperando che a qualcuno possa essere utili.
 
@@ -43,7 +43,7 @@ Mentre seguivo i corsi ho di volta in volta studiato la lezione precedente e scr
 ### Programmazione avanzata (38090) - Claudio Menghi
 <a href='https://github.com/FI-153/flashcards-unibg-ingegneria-informatica/blob/000ba488fec6cb86346d7b56c11253688e761093/Programmazione%20avanzata%20(38090)%20(Menghi).mochi'>Scarica il deck</a>
 
-### Reti di telecomunicazione (Principi e Laboratorio) (39092) = Fabio Martignon
+### Reti di telecomunicazione (Principi e Laboratorio) (39092) - Fabio Martignon
 <a href='https://github.com/FI-153/flashcards-unibg-ingegneria-informatica/blob/000ba488fec6cb86346d7b56c11253688e761093/Reti%20di%20telecomunicazione%20(Principi%20e%20Laboratorio)%20(39092)%20(Martignon).mochi'>Scarica il deck</a>
 
 # Corsi a scelta del primo anno
