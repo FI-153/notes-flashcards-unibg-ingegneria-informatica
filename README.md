@@ -1,4 +1,4 @@
-<h1> Flashcard Ingegneria Informatica UniBG </h1>
+<h1> Flashcard per Ingegneria Informatica in UniBG (LM-32) </h1>
 
 Questa repo contiene le flashcard che ho scritto studiando ingegneria informatica presso l'Università degli Studi di Bergamo. I corsi si sono svolti nell'anno accademico 2023/2024 per il primo anno e 2024/2025 per il secondo. Le metto a disposizione sperando che a qualcuno possa essere utili.
 
