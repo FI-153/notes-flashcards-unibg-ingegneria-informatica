@@ -6,7 +6,15 @@ Questa repo contiene le flashcard che ho scritto studiando ingegneria informatic
 > Non do nessuna garanzia che queste flashcard siano esaustive o che le risposte che ho fornito siano corrette. Vi consiglio di usarle come ripasso dopo che avrete già studiato la lezione e non come unico modo per preparare gli esami, poiché rischiereste solo di overfittare la vostra preparazione.
 
 # Utilizzo delle card
-Ho realizzato queste fleshards usando <a href='https://mochi.cards' target='blank'>Mochi</a>, un software che aiuta anche a gestire lo studio e il ripasso permettendo di fare testing attraverso l'applicazione del principio delle spaced repetition. Mochi ha sia una versione free che una premium ma la maggiorparte delle feature sono disponibili nella versione free, ciò che è aggiunto dall'abbonanamento mensile è il backup e la sincronizzazione tra dispositivi. Potete cominciare già da subito ad usare Mochi dalla <a href='https://app.mochi.cards' target='blank'>webapp</a> senza neppure dover creare un account. Una volta fatto l'accesso è sufficiente scaricare il deck che vi interessa e importarlo in Mochi, chiaramente chiudendo la sessione vengono persi tutti i deck e le modifche ma potete sempre esportarle in formato .mochi e averle a disposizine in locale. Esistono poi versioni in locale della app per MacOS, Windows, iOS ecc.
+Ho realizzato queste fleshards usando <a href='https://mochi.cards' target='blank'>Mochi</a>, un software che aiuta anche a gestire lo studio e il ripasso permettendo di fare testing attraverso l'applicazione del principio delle spaced repetition. Mochi ha sia una versione free che una premium ma la maggiorparte delle feature sono disponibili nella versione free, ciò che è aggiunto dall'abbonanamento mensile è il backup e la sincronizzazione tra dispositivi. Potete cominciare già da subito ad usare Mochi dalla <a href='https://app.mochi.cards' target='blank'>webapp</a> senza neppure dover creare un account. Una volta fatto l'accesso è sufficiente scaricare il deck che vi interessa e importarlo in Mochi, chiaramente chiudendo la sessione vengono persi tutti i deck e le modifche ma potete sempre esportarle in formato .mochi e averle a disposizine in locale. Esistono poi versioni in locale della app per MacOS, Windows, iOS ecc. Importato il deck potere ripeterne le card all'interno selezionando "cram".
+
+# Struttura di un Deck
+Per ogni argomento trovate un deck dentro il quale sono presenti tanti sotto-deck quanti sono gli argomenti trattati nel corso. In questo modo si può decidere se esercitarsi sia su deck completo o su un di un singolo argomento. 
+
+<div style = "text-align: center">
+  <img src='./assets/esempioDeck1.webp' width=500 style = "margin: 10px">
+  <img src='./assets/esempioDeck2.webp' width=500 style = "margin: 10px">
+</div>
 
 # Consigli per il metodo di studio
 Il metodo di studio per il quale ho relizzato queste card si basa sul metodo P.A.C.R.A.R. (Pianificazione, Acquisizione, Comprensione, Rielaborazione, Applicazione, Ricordo) delineato da Alessando de Concini sui suoi libri, corsi e altri contenuti online. Si tratta di un metodo basato sul testing delle proprie conoscenze attraverso l'applicazione dei concetti studiati: ciò può essere fatto con esercizi o domande, ecco che subentrano le flashcards. L'effetto del ripasso è poi ulteriormente accresciuto se si esegue testing a intervalli precisi seguendo il principio delle "spaced repetition".
@@ -45,6 +53,9 @@ Mentre seguivo i corsi ho di volta in volta studiato la lezione precedente e scr
 
 ### Reti di telecomunicazione (Principi e Laboratorio) (39092) - Fabio Martignon
 <a href='https://github.com/FI-153/flashcards-unibg-ingegneria-informatica/blob/000ba488fec6cb86346d7b56c11253688e761093/Reti%20di%20telecomunicazione%20(Principi%20e%20Laboratorio)%20(39092)%20(Martignon).mochi'>Scarica il deck</a>
+
+### Teoria dell'informazione e della trasmissione (TIT) (38011) (38092) - Marco Pietro Giuseppe Ferrari 
+<a href="#" style = "color: gray">Coming Soon</a>
 
 # Corsi a scelta del primo anno
 
