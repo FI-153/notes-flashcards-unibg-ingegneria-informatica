@@ -55,7 +55,7 @@ Mentre seguivo i corsi ho di volta in volta studiato la lezione precedente e scr
 <a href='https://github.com/FI-153/flashcards-unibg-ingegneria-informatica/blob/000ba488fec6cb86346d7b56c11253688e761093/Reti%20di%20telecomunicazione%20(Principi%20e%20Laboratorio)%20(39092)%20(Martignon).mochi'>Scarica il deck</a>
 
 ### Teoria dell'informazione e della trasmissione (TIT) (38011) (38092) - Marco Pietro Giuseppe Ferrari 
-<a href="#" style = "color: gray">Coming Soon</a>
+<a href="https://github.com/FI-153/flashcards-unibg-ingegneria-informatica/blob/4f8a5627a42302da5a1c847cd839773518ea186c/Teoria%20dell'informazione%20e%20della%20trasmissione%20(TIT)%20(38011)%20(38092)%20(Ferrari).mochi"> Scarica il deck</a>
 
 # Corsi a scelta del primo anno
 
