@@ -83,8 +83,8 @@ Mentre seguivo i corsi ho di volta in volta studiato la lezione precedente e scr
 
 # 2️⃣ Corsi obbligatori del secondo anno
 ### Linguaggi Formali e Compilatori (38070) - Giuseppe Psaila
-<a href='https://github.com/FI-153/notes-flashcards-unibg-ingegneria-informatica/blob/8b518ed1ee59ad9abe5eedd47797891d85ae7f0f/Linguaggi%20Formali%20e%20Compilatori%20(38070)%20(Psaila).mochi'>Scarica il deck<\a><br>
+<a href='https://github.com/FI-153/notes-flashcards-unibg-ingegneria-informatica/blob/8b518ed1ee59ad9abe5eedd47797891d85ae7f0f/Linguaggi%20Formali%20e%20Compilatori%20(38070)%20(Psaila).mochi'>Scarica il deck</a><br>
 
 # 2️⃣ Corsi a scelta del secondo anno
 ### Advanced Data Management and Laboratory (38093) - Domenico Fabio Savo, Stefano Paraboschi
-<a href='https://github.com/FI-153/notes-flashcards-unibg-ingegneria-informatica/blob/8b518ed1ee59ad9abe5eedd47797891d85ae7f0f/Advanced%20Data%20Management%20(38093)%20(Savo%2C%20Paraboschi).mochi'>Scarica il deck<\a><br>
+<a href='https://github.com/FI-153/notes-flashcards-unibg-ingegneria-informatica/blob/8b518ed1ee59ad9abe5eedd47797891d85ae7f0f/Advanced%20Data%20Management%20(38093)%20(Savo%2C%20Paraboschi).mochi'>Scarica il deck</a><br>
