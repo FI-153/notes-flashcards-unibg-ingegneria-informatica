@@ -35,7 +35,7 @@ Mentre seguivo i corsi ho di volta in volta studiato la lezione precedente e scr
 </ul>
 
 > [!NOTE]
-> Non sono pakato da Alessandro de Concini o in alcun modo affiliato con la sua compagnia, così come non sono affiliato a Notability o Mochi. Semplicemente mi piace il loro lavoro.
+> Non sono pagato da Alessandro de Concini o in alcun modo affiliato con la sua compagnia, così come non sono affiliato a Notability o Mochi. Semplicemente mi piace il loro lavoro.
 
 # 1️⃣ Corsi obbligatori del primo anno
 
