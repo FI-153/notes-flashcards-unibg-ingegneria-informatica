@@ -90,3 +90,19 @@ Mentre seguivo i corsi ho di volta in volta studiato la lezione precedente e scr
 ### Advanced Data Management and Laboratory (38093) - Domenico Fabio Savo, Stefano Paraboschi
 <a href='https://github.com/FI-153/notes-flashcards-unibg-ingegneria-informatica/blob/8b518ed1ee59ad9abe5eedd47797891d85ae7f0f/Advanced%20Data%20Management%20(38093)%20(Savo%2C%20Paraboschi).mochi'>Scarica il deck</a><br>
 <a href='https://drive.google.com/drive/folders/1xLnv5xBWdP8zRlxIDJlYvCeCi3QYtSsd?usp=sharing'>Scarica gli appunti (PDF)</a>
+
+### Computer Security (38093) - Stefano Paraboschi
+<a href=''>Scarica il deck</a><br>
+<a href=''>Scarica gli appunti (PDF)</a>
+
+### Gestione dei sistemi ICT (37034) - Siliva Bonfanti
+<a href=''>Scarica il deck</a><br>
+<a href=''>Scarica gli appunti (PDF)</a>
+
+### Laboratorio di programmazione evoluta e comptetiva (Matthew Rossi, Claudio Menghi, Dario Facchinetti)
+<a href=''>Scarica il deck</a><br>
+<a href=''>Scarica gli appunti (PDF)</a>
+
+### Testing e verifica del software (21056) - Angelo Gargantini
+<a href=''>Scarica il deck</a><br>
+<a href=''>Scarica gli appunti (PDF)</a>
