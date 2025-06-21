@@ -106,3 +106,5 @@ Mentre seguivo i corsi ho di volta in volta studiato la lezione precedente e scr
 ### Testing e verifica del software (21056) - Angelo Gargantini
 <a href='https://github.com/FI-153/notes-flashcards-unibg-ingegneria-informatica/blob/43a09e5fb9d5e342bacb3fdcaf0894d0b9fdbdf4/Testing%20e%20verifica%20del%20software%20(21056)%20(Gargantini).mochi'>Scarica il deck</a><br>
 <a href='https://drive.google.com/drive/folders/180RGIi7ONPnnbfG3rYIacea5QWrhMK0D?usp=drive_link'>Scarica gli appunti (PDF)</a>
+
+✨ Et lux in tenebris lucet
