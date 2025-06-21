@@ -92,17 +92,17 @@ Mentre seguivo i corsi ho di volta in volta studiato la lezione precedente e scr
 <a href='https://drive.google.com/drive/folders/1xLnv5xBWdP8zRlxIDJlYvCeCi3QYtSsd?usp=sharing'>Scarica gli appunti (PDF)</a>
 
 ### Computer Security (38093) - Stefano Paraboschi
-<a href=''>Scarica il deck</a><br>
-<a href=''>Scarica gli appunti (PDF)</a>
+<a href='https://github.com/FI-153/notes-flashcards-unibg-ingegneria-informatica/blob/43a09e5fb9d5e342bacb3fdcaf0894d0b9fdbdf4/Computer%20Security%20(38103)%20(Paraboschi).mochi'>Scarica il deck</a><br>
+<a href='https://drive.google.com/drive/folders/1EXexlCf1sAxSWaVonpyAzAkoFl8IztZ5?usp=drive_link'>Scarica gli appunti (PDF)</a>
 
 ### Gestione dei sistemi ICT (37034) - Siliva Bonfanti
-<a href=''>Scarica il deck</a><br>
-<a href=''>Scarica gli appunti (PDF)</a>
+<a href='https://github.com/FI-153/notes-flashcards-unibg-ingegneria-informatica/blob/43a09e5fb9d5e342bacb3fdcaf0894d0b9fdbdf4/Gestione%20dei%20sistemi%20ICT%20(37034)%20(Bonfanti).mochi'>Scarica il deck</a><br>
+<a href='https://drive.google.com/drive/folders/1A2uHyPdMk-3aRnElJJFjglXCgov20Jqo?usp=drive_link'>Scarica gli appunti (PDF)</a>
 
 ### Laboratorio di programmazione evoluta e comptetiva (Matthew Rossi, Claudio Menghi, Dario Facchinetti)
-<a href=''>Scarica il deck</a><br>
-<a href=''>Scarica gli appunti (PDF)</a>
+<a href='https://github.com/FI-153/notes-flashcards-unibg-ingegneria-informatica/blob/43a09e5fb9d5e342bacb3fdcaf0894d0b9fdbdf4/Laboratorio%20di%20programmazione%20evoluta%20e%20comptetiva%20(Rossi%2C%20Menghi%2C%20Facchinetti).mochi'>Scarica il deck</a><br>
+<a href='https://drive.google.com/drive/folders/1dZBAlbvZD2xPPrCifMoB-qqSZvHOREQP?usp=drive_link'>Scarica gli appunti (PDF)</a>
 
 ### Testing e verifica del software (21056) - Angelo Gargantini
-<a href=''>Scarica il deck</a><br>
-<a href=''>Scarica gli appunti (PDF)</a>
+<a href='https://github.com/FI-153/notes-flashcards-unibg-ingegneria-informatica/blob/43a09e5fb9d5e342bacb3fdcaf0894d0b9fdbdf4/Testing%20e%20verifica%20del%20software%20(21056)%20(Gargantini).mochi'>Scarica il deck</a><br>
+<a href='https://drive.google.com/drive/folders/180RGIi7ONPnnbfG3rYIacea5QWrhMK0D?usp=drive_link'>Scarica gli appunti (PDF)</a>
